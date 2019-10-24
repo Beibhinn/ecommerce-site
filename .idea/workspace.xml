@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8b74892f-f4ab-463f-b75b-ce4452168bb3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/ecommerce/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,11 +26,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ecommerce/settings.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="317">
-              <caret line="94" column="9" lean-forward="true" selection-start-line="94" selection-start-column="9" selection-end-line="94" selection-end-column="9" />
+              <caret line="94" column="5" lean-forward="true" selection-start-line="94" selection-start-column="5" selection-end-line="94" selection-end-column="5" />
               <folding>
                 <element signature="e#314#323#0" expanded="true" />
               </folding>
@@ -38,16 +38,33 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.travis.yml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="85">
-              <caret line="5" column="36" lean-forward="true" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
+              <caret line="5" column="42" lean-forward="true" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/manage.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="21" lean-forward="true" selection-start-column="21" selection-end-column="21" />
+              <folding>
+                <element signature="e#22#31#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>secret_key</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -83,8 +100,8 @@
         <option value="$PROJECT_DIR$/templates/base.html" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/.travis.yml" />
         <option value="$PROJECT_DIR$/ecommerce/settings.py" />
+        <option value="$PROJECT_DIR$/.travis.yml" />
       </list>
     </option>
   </component>
@@ -166,25 +183,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1571226483475</updated>
-      <workItem from="1571226485140" duration="49477000" />
+      <workItem from="1571226485140" duration="51708000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="49477000" />
+    <option name="totallyTimeSpent" value="51708000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="679" y="0" width="863" height="830" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2273292" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2273292" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.36480686" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.36480686" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -502,20 +519,30 @@
         <state relative-caret-position="-54" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.travis.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="36" lean-forward="true" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ecommerce/settings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="317">
-          <caret line="94" column="9" lean-forward="true" selection-start-line="94" selection-start-column="9" selection-end-line="94" selection-end-column="9" />
+          <caret line="94" column="5" lean-forward="true" selection-start-line="94" selection-start-column="5" selection-end-line="94" selection-end-column="5" />
           <folding>
             <element signature="e#314#323#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="21" lean-forward="true" selection-start-column="21" selection-end-column="21" />
+          <folding>
+            <element signature="e#22#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.travis.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="42" lean-forward="true" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="42" />
         </state>
       </provider>
     </entry>
